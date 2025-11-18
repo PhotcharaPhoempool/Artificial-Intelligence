@@ -20,7 +20,7 @@ red_orange = 4
 blue_apple = 3
 blue_orange = 1
 
-# คำนวณจำนวนผลไม้ทั้งหมดในแต่ละกล่อง
+# Total fruits in red box and blue box
 total_red = red_apple + red_orange
 total_blue = blue_apple + blue_orange
 
